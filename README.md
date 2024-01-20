@@ -17,3 +17,23 @@
 10. Can write a small peace of code with computer language (Kotlin/Java/Python/Golang/Rust/Cpp, etc).
 11. Test reports
 12. `*` CI/CD
+
+
+---
+**Last update**
+
+| Name                 | Status | Last updated at |
+|----------------------|--------|-----------------|
+| Theory Testing       | ✅      | 01/20/2024      |
+| Application cycle    | ❌      |                 |
+| Tools and utils      | ❌      |                 |
+| Mobile               | ❌      |                 |
+| Specification        | ❌      |                 |
+| Analysts and metrics | ❌      |                 |
+| Base SQL requests    | ✅      | 01/20/2024      |
+| HTTP                 | ❌      |                 |
+| SOAP and Rest        | ✅      | 01/20/2024      |
+| Language             | ❌      |                 |
+| Test reports         | ❌      |                 |
+| CI/CD                | ❌      |                 |
+
