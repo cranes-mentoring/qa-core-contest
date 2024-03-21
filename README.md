@@ -31,9 +31,9 @@
 | Specification        | ❌      |                 |
 | Analysts and metrics | ❌      |                 |
 | Base SQL requests    | ✅      | 01/20/2024      |
-| HTTP                 | ❌      |                 |
+| HTTP                 | ✅      | 03/21/2024      |
 | SOAP and Rest        | ✅      | 01/20/2024      |
 | Language             | ❌      |                 |
 | Test reports         | ❌      |                 |
-| CI/CD                | ❌      |                 |
+| CI/CD                | ✅      | 03/21/2024      |
 
